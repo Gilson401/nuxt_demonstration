@@ -1,5 +1,5 @@
 export default (context, inject) => {
-    const hello = (msg) => `Hello ${msg}!`
+    const hello = (msg) => `Hello xxx ${msg}!`
 
     //const hello = (msg) => console.log(`Hello ${msg}!`)
     // Inject $hello(msg) in Vue, context and store.

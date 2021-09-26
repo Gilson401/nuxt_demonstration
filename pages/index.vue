@@ -4,7 +4,7 @@
       <ExampleComponent/>
       <Logo />
       <h1 class="title">
-        Nuxtjs-global-functions-or-variables
+        Implementando Testes no NuxtJS com Cypress.IO
       </h1>
       <div class="links">
         <a
@@ -61,7 +61,7 @@ export default {
     sans-serif;
   display: block;
   font-weight: 300;
-  font-size: 100px;
+  font-size: 50px;
   color: #35495e;
   letter-spacing: 1px;
 }
