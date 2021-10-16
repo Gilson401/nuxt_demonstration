@@ -1,4 +1,6 @@
 {
     "testFiles": "**/*.spec.js",
-    "componentFolder": "components"
+    "componentFolder": "components",
+    "video": false,
+    "baseUrl": "https://localhost:3005/"
 }
