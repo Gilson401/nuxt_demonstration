@@ -2,3 +2,4 @@ Este arquivo cypressbranch.txt foi criado apenas na branch cypress. Não foi com
 Enquanto  é virgem de comitt ele pode trafegar entre branhes. 
 Esta linha  foi alterada no remote apenas
 Eu comittei esta linha apenas no meu local.
+Eu comittei esta linha 4 apenas no meu remoto.
