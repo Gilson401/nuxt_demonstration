@@ -1,0 +1,1 @@
+Este arquivo cypressbranch.txt foi criado apenas na branch cypress. Não foi comittado.
